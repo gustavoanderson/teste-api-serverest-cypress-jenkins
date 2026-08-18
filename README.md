@@ -1,5 +1,7 @@
-# Testes API - EBAC
-### Exercício para os alunos de Qualidade de software da EBAC 
+# Testes API Serverest - EBAC
+Testando métodos GET, POST, PUT e DELETE automatizados com Cypress e Jenkins.
+
+Cria usuários (POST), valida (GET), atualiza (PUT) e os delete (DELETE). Tarefa colocada em pipeline com Jenkins.
 
 ## Clonando e executando em sua máquina
 
